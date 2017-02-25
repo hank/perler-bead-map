@@ -1,0 +1,247 @@
+white	Hama	ECEDED
+Cream	Hama	F0E8B9
+yellow	Hama	F0B901
+orange	Hama	E64F27
+red	Hama	B63136
+pink	Hama	E1889F
+purple	Hama	694A82
+Dark Blue (Blue)	Hama	2C4690
+Light Blue	Hama	305CB0
+Green	Hama	256847
+light green	Hama	49AE89
+brown	Hama	534137
+transparent red	Hama	C02435
+transparent green	Hama	37B876
+grey	Hama	83888A
+black	Hama	2E2F31
+Clear	Hama	D8D2CE
+Reddish Brown	Hama	7F332A
+light brown	Hama	A5693F
+Dark Red	Hama	A52D36
+Translucent purple	Hama	683E9A
+Translucent Brown	Hama	87593D
+Flesh	Hama	DE9B90
+Beige	Hama	DEB48B
+Army (Dark Green)	Hama	363F38
+Claret	Hama	B9395E
+burgundy	Hama	592F38
+Turquoise	Hama	6797AE
+Neon Pink (Fucsia)	Hama	FF208D
+Cerise	Hama	FF3956
+Neon Yellow	Hama	E5EF13
+Neon Red	Hama	FF2833
+Neon Blue	Hama	2353B0
+Neon Green	Hama	06B73C
+Neon Orange	Hama	FD8600
+Fluorescent Yellow	Hama	F1F21C
+Fluorescent Orange	Hama	FE630B
+Fluorescent Blue	Hama	2659B2
+Fluorescent Green	Hama	0CBD51
+pastel yellow	Hama	F0EA37
+Pastel Red	Hama	EE6972
+Pastel Purple	Hama	886DB9
+pastel blue	Hama	629ED7
+pastel green	Hama	83CB70
+Pastel Pink	Hama	CF70B7
+Azure	Hama	4998BC
+Black	Nabbi	3A3D41
+Dark Brown	Nabbi	50443B
+Brown Medium	Nabbi	5A3E36
+Maroon (Wine Red)	Nabbi	813547
+Caramel	Nabbi	A76224
+Tan (Beige)	Nabbi	AD967E
+Sand (Skin)	Nabbi	EEB182
+Ash (Ash Grey	Nabbi	8D8B7F
+Hunter Green	Nabbi	2F4A39
+Light Grey	Nabbi	D3CBCB
+Purple	Nabbi	644591
+Ivory	Nabbi	E2D0BF
+Orange (Clear Orange)	Nabbi	F3601B
+Yellow	Nabbi	F9CA00
+White	Nabbi	F4F4F3
+Green	Nabbi	297A3B
+Bright Blue (Blue)	Nabbi	3B75CB
+Light Rose (Light Pink)	Nabbi	E1B4AB
+Red (Light Red)	Nabbi	DF2638
+Light Brown	Nabbi	B58B69
+Lt Yellow	Nabbi	F5EC8D
+Lime (pearl Green)	Nabbi	48AF4F
+Med Blue (pastel blue)	Nabbi	71A3E6
+Lavender	Nabbi	B6A0DB
+Pink (old rose)	Nabbi	EE6A97
+Peach (Light orange)	Nabbi	FCA879
+Chocolate	Nabbi	875F52
+Sky (light blue)	Nabbi	A7C6F1
+Gold/Orange (Pearl Orange)	Nabbi	EE9527
+Kiwi (Olive)	Nabbi	C7BF5E
+White	Perler	F1F1F1
+Cream	Perler	E0DEA9
+Yellow	Perler	ECD800
+Orange	Perler	ED6120
+Red	Perler	BF2E40
+Bubblegum	Perler	DD669B
+Purple	Perler	604089
+Dark Blue	Perler	2B3F87
+Light Blue	Perler	3370C0
+Dark Green	Perler	1C753E
+Pearl Coral	Perler	F97E79
+Pearl Light Blue	Perler	7AAEA2
+Pearl Green	Perler	84B791
+Pearl Yellow	Perler	CAC033
+Pearl Light Pink	Perler	D7A8A2
+Silver	Perler	777B81
+Light Green	Perler	56BA9F
+Brown	Perler	513931
+Grey	Perler	8A8D91
+Black	Perler	2E2F32
+Rust	Perler	8C372C
+Light Brown	Perler	815D34
+Peach	Perler	EEBAB2
+Tan	Perler	BC9371
+Magenta	Perler	F22A7B
+Neon Yellow	Perler	DCE002
+Neon Orange	Perler	FF7700
+Neon Green	Perler	019E43
+Neon Pink	Perler	FF3991
+Pastel Blue	Perler	5390D1
+Pastel Green	Perler	76C882
+Pastel Lavender	Perler	8A72C1
+Pastel Yellow	Perler	FEF875
+Chedder	Perler	F1AA0C
+Toothpaste	Perler	93C8D4
+Hot Coral	Perler	FF3851
+Plum	Perler	A24B9C
+Kiwi Lime	Perler	6CBE13
+Cyan (aka Turquoise)	Perler	2B89C6
+Blush	Perler	FF8285
+Periwinkle Blue	Perler	647CBE
+Glow Green	Perler	BEC696
+Light Pink	Perler	F6B3DD
+Bright Green	Perler	4FAD42
+Light Gray	Perler	B1B5B2
+Evergreen	Perler	355343
+Lavender	Perler	AD98D4
+Pink	Perler	E44892
+Gold	Perler	BB7634
+Raspberry	Perler	A53061
+Butterscotch	Perler	D48437
+Parrot Green	Perler	067C81
+Dark Grey	Perler	4D5156
+Blueberry Cream	Perler	8297D9
+Cranapple	Perler	803245
+Prickly Pear	Perler	BDDA01
+Sand	Perler	E4B690
+White	Artkal	E9E7E6
+Burning Sand	Artkal	FE908F
+Tangerine	Artkal	FEA402
+Orange	Artkal	FD6149
+Tall Poppy	Artkal	DD3444
+Raspberry pink	Artkal	EB66BE
+Gray 2	Artkal	8E8F93
+Emerald	Artkal	52CC6A
+Dark Green	Artkal	2A5D62
+Baby Blue	Artkal	61A8DF
+Dark Blue	Artkal	284492
+Pastel Lavender	Artkal	8962AD
+Black	Artkal	1F1F21
+Sandstorm	Artkal	EFDD06
+Redwood	Artkal	7C4545
+Brown	Artkal	78584E
+light brown	Artkal	594743
+Sand	Artkal	CE9B86
+Bubblegum	Artkal	EDAEAC
+Green	Artkal	549160
+Pastel Green	Artkal	84C551
+Purple	Artkal	554889
+Royal Purple	Artkal	7D66AD
+True Blue	Artkal	396DBC
+Hot Pink	Artkal	FE5BBA
+Magenta	Artkal	FE4289
+Yellow	Artkal	F0CE01
+Lily Pink	Artkal	DF9FCD
+Pastel Yellow	Artkal	F0E24F
+Shadow Green	Artkal	A1C6CE
+Sea Mist	Artkal	ABDACA
+Beeswax	Artkal	F8C583
+Maverick	Artkal	C0AEDB
+Mona Lisa	Artkal	F9BCC1
+Old Pink	Artkal	C86782
+Blue Green	Artkal	84C7C6
+burgundy	Artkal	A13053
+Yellow Orange	Artkal	FF834B
+Carnation Pink	Artkal	FD91D6
+Copper	Artkal	9D5B2E
+Silver	Artkal	676B73
+Gray 3	Artkal	66676A
+Sky Blue	Artkal	A4C8E8
+Medium Turquoise	Artkal	3F989E
+Bright Green	Artkal	A8E42A
+Marigold	Artkal	9C743C
+Corn	Artkal	F6BF05
+Mulberry Wood	Artkal	78315A
+Mandys Pink	Artkal	FDA47E
+Spring Sun	Artkal	F3D9B6
+Picasso	Artkal	EFE56D
+Turquoise	Artkal	6593DF
+Light Blue	Artkal	1A75D0
+Pistachio	Artkal	A0D589
+Outrageous Orange	Artkal	FE7F50
+Buccaneer	Artkal	984E43
+Paprika	Artkal	AC2C44
+Lavender	Artkal	A675BF
+Key Lemon Pie	Artkal	BBC528
+Green Tea	Artkal	387061
+Metallic Gold	Artkal	696046
+Black Rock	Artkal	363D5C
+Canary	Artkal	F7F839
+Blaze Orange	Artkal	FD5143
+Vanilla	Artkal	E2C1B2
+Tan	Artkal	AF9666
+Mine Shaft	Artkal	43484E
+Dark Algae	Artkal	92B701
+Jade Green	Artkal	318332
+Light Sea Blue	Artkal	77BFD1
+Steel blue	Artkal	5B9FC7
+azure	Artkal	4090C0
+dark steel blue	Artkal	3879A6
+sea blue	Artkal	3B87AB
+Ghost white	Artkal	D3D3D0
+Ash Gray	Artkal	BDBDBB
+Gray 1	Artkal	A3A7A9
+Dark Olive	Artkal	7C8934
+Deer	Artkal	B88A62
+Clay	Artkal	916A4D
+Sienna	Artkal	AE6735
+Deep Chestnut	Artkal	A55761
+Red Wine	Artkal	8C414A
+Goldenrod	Artkal	E9B504
+Coral Red	Artkal	FA616A
+Dark Pink	Artkal	D93B80
+Gray 4	Artkal	585C63
+Pastel Orange	Artkal	FBB749
+Brunswick Green	Artkal	344042
+Glow Yellow	Artkal	C6C0B4
+Glow Pink	Artkal	DFABBC
+Glow Blue	Artkal	6FADC1
+Glitter Blue	Artkal	3687B2
+Glitter Green	Artkal	117C52
+Glitter Red	Artkal	C22933
+Glitter Yellow	Artkal	CDBD00
+Neon Orange	Artkal	FF7405
+Neon Green	Artkal	01C63E
+Neon Yellow	Artkal	F2F33C
+Neon Rose	Artkal	FF477A
+Pearlescent Green	Artkal	93CA87
+Pearlescent Tangerine	Artkal	FE7F54
+Pearlescent Orange	Artkal	F0A149
+Pearlescent Pink	Artkal	DC9EA9
+Pearlescent Red	Artkal	D63C53
+Pearlescent Blue	Artkal	2C4E97
+Pearlescent Purple	Artkal	64427E
+Pearlescent White	Artkal	E0DBCA
+Transparent	Artkal	C7BCB8
+Transparent Pink	Artkal	F95498
+Transparent Tangering	Artkal	FF7C45
+Transparent Yellow	Artkal	DADF3D
+transparent green	Artkal	0FAE58
+Transparent Purple	Artkal	8477B3
